@@ -1,0 +1,42 @@
+.zob{
+    font-size: x-large;
+}
+.background {
+    background-color:rgb(247, 1, 181);
+}
+
+.jsp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: violet;
+}
+.inception{
+
+display: flex;
+align-items: flex-start;
+background-color: blueviolet;
+flex-direction: column;
+}
+.aaa{
+    display:flex;
+    align-items:flex-start;
+    background-color: rgb(241, 0, 209);
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+.nope{
+flex-direction: column;
+align-items: center;
+}
+
+.top{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(177, 124, 227);
+   
+}
+.top a{
+    margin-inline: 10px;
+}
